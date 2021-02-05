@@ -1,0 +1,3 @@
+sources/diskBasedADM/diskBasedADM.C
+
+LIB = $(SOWFA_LIBBIN)/libSOWFAfvOptions
